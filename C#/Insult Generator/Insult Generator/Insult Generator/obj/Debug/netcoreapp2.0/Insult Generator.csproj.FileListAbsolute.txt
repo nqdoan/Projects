@@ -1,0 +1,11 @@
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\bin\Debug\netcoreapp2.0\Insult Generator.deps.json
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\bin\Debug\netcoreapp2.0\Insult Generator.runtimeconfig.json
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\bin\Debug\netcoreapp2.0\Insult Generator.runtimeconfig.dev.json
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\bin\Debug\netcoreapp2.0\Insult Generator.dll
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\bin\Debug\netcoreapp2.0\Insult Generator.pdb
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.csprojResolveAssemblyReference.cache
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.AssemblyInfoInputs.cache
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.AssemblyInfo.cs
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.dll
+D:\GitHub\Projects\C#\Insult Generator\Insult Generator\Insult Generator\obj\Debug\netcoreapp2.0\Insult Generator.pdb
